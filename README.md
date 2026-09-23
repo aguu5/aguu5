@@ -73,7 +73,8 @@ A Discord moderation bot built to catch the "compromised account sending fake ce
 
 <div align="center">
 
-![aguu5's GitHub stats](https://github-readme-stats.vercel.app/api?username=aguu5&show_icons=true&theme=default&hide_title=true&hide_border=true)
+![aguu5's GitHub stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 </div>
 
